@@ -2,8 +2,11 @@
 some notes one building my first twitter bot...
 
 ## *What I am looking at to begin building a bot*
-* https://help.twitter.com/en/rules-and-policies/twitter-rules
-* allison parish
+* [*Cheap Bots, Done Quick!*](https://cheapbotsdonequick.com/)
+  
+  This is a Twitter app which automatically Tweets based on a Tracery Grammar. This is a good start for begining how to use a *context free grammar*, but how can aI make my own posting interface, which pulls on an api and also responds to incoming text? The interface on *Cheap Bots, Done Quick!* appears to only take a JSON formated source file.
+
+<!--- * allison parish learning resource on twitter bot and the nerdgarbage twitter bot reflection --->
 ---
 
 ## *TWITTER biz*
